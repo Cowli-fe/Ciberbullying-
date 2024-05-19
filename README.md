@@ -127,7 +127,7 @@
                 <li>Problemas académicos y de rendimiento</li>
                 <li>Pensamientos suicidas</li>
             </ul>
-            <img src="https://raw.githubusercontent.com/Cowli-fe/Ciberbullying-/main/ciberbullying1" alt="Efectos del cyberbullying">
+            <img src="https://raw.githubusercontent.com/Cowli-fe/Ciberbullying-/main/ciberbullying1.jpg" alt="Efectos del cyberbullying">
             <p>Estos efectos pueden durar mucho tiempo e incluso tener consecuencias graves. Las personas que experimentan cyberbullying pueden sentir miedo, vergüenza y una sensación de indefensión.</p>
             <p>Además de afectar la salud mental y emocional, el ciberbullying también puede tener repercusiones físicas, como dolores de cabeza, problemas gastrointestinales y trastornos del sueño.</p>
         </section>
@@ -142,7 +142,7 @@
                 <li>Proporcionar recursos y apoyo a las personas afectadas por el ciberbullying.</li>
                 <li>Promover una cultura de intervención y apoyo entre los compañeros.</li>
             </ul>
-            <img src="https://raw.githubusercontent.com/Cowli-fe/Ciberbullying-/main/ciber4" alt="Prevención del cyberbullying">
+            <img src="https://raw.githubusercontent.com/Cowli-fe/Ciberbullying-/main/ciber4.jpg" alt="Prevención del cyberbullying">
             <p>Es importante enseñar a los niños y adolescentes cómo ser ciudadanos digitales responsables y respetuosos. Los padres, educadores y líderes comunitarios desempeñan un papel crucial en la prevención del ciberbullying al proporcionar orientación, apoyo y recursos.</p>
         </section>
         <section id="report">
@@ -154,7 +154,7 @@
                 <li>Informa a un adulto de confianza: Habla con un padre, tutor, maestro o consejero sobre lo que está sucediendo para obtener apoyo y orientación.</li>
                 <li>Contacta a las autoridades: Si el ciberbullying incluye amenazas de violencia o es extremadamente grave, considera contactar a las autoridades locales.</li>
             </ol>
-            <img src="https://raw.githubusercontent.com/Cowli-fe/Ciberbullying-/main/ciber5" alt="Cómo reportar cyberbullying">
+            <img src="https://raw.githubusercontent.com/Cowli-fe/Ciberbullying-/main/ciber5.jpg" alt="Cómo reportar cyberbullying">
             <p>Es importante tomar medidas para detener el ciberbullying y proteger tu bienestar emocional y mental.</p>
             <p>Reportar el ciberbullying no solo puede ayudar a detener el comportamiento dañino, sino que también puede proporcionar apoyo y recursos a las personas afectadas. La denuncia del ciberbullying también puede contribuir a crear conciencia sobre el problema y promover un cambio positivo en la comunidad en línea.</p>
         </section>
